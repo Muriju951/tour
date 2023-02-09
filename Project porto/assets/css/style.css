@@ -1,0 +1,22 @@
+.container-footer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.empty-content {
+    height: 100px; /* misalnya */
+    background-color: #ccc; /* misalnya */
+  }
+
+  #empty-content {
+    height: 100px; /* misalnya */
+    background-color: #ccc; /* misalnya */
+  }
+
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
